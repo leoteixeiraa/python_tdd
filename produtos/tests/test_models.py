@@ -1,6 +1,7 @@
 from mixer.backend.django import mixer
 
 import pytest
+from django.test import TestCase
 
 @pytest.mark.django_db
 
